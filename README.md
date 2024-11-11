@@ -13,18 +13,18 @@
 # ✨ Features
 
 - Easy to use.
-- serch engine swap with a single click.
-- 7 famous diffrents builtin theme.
-- clean look with eassy access.
-- Clock,Date and Greetings.
+- Search engine swap with a single click.
+- 7 different builtin themes.
+- Clean look, easy access.
+- Clock, Date and Greetings.
 
 # ⚙️ How to Configure
 
-1. Fork this repo
-2. change the name (greet.js), theme (app.css) and links (index.html) as you like
+1. Fork this repo,
+2. Change the name (greet.js), theme (app.css) and links (index.html) as you like,
 3. Enable the Github Pages service Settings → GitHub Pages → Source [master branch] → Save
 4. Set it as Home Page
-5. for new tabs
+5. For setting as the new tab page:
 
 - If you use Firefox: [Custom New Tab Page](https://addons.mozilla.org/en-US/firefox/addon/custom-new-tab-page/?src=search) .
 - If you use Chromium : [Custom New Tab URL](https://chrome.google.com/webstore/detail/custom-new-tab-url/mmjbdbjnoablegbkcklggeknkfcjkjia)
@@ -67,7 +67,7 @@
 
 - [ ] add weather
 - [ ] theme switcher menu
-- [ ] serch engine switcher menu
+- [ ] search engine switcher menu
 
 # special thanks to
 
